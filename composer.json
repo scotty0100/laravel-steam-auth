@@ -1,17 +1,17 @@
 {
-    "name": "invisnik/laravel-steam-auth",
+    "name": "scotty0100/laravel-steam-auth",
     "description": "Laravel Steam Auth",
     "keywords": ["steam", "laravel", "auth"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Nikita Brytkov",
-            "email": "invis.nik@gmail.com"
+            "name": "Scott Stamp",
+            "email": "scotty0100@gmail.com"
         }
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "5.0.x"
+        "illuminate/support": "5.1.x"
     },
     "autoload": {
         "psr-4": {
